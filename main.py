@@ -9,7 +9,7 @@ pprint.pprint(sys.path)
 import GameAutomation 
 from YoujyoSenki import YoujyoSenki
 from NaruKore import NaruKore
-from monst import monst
+from FGO import FGO
 
 # マルチスレッド関係
 import logging
@@ -42,8 +42,8 @@ if __name__ == "__main__":
     # NK = NaruKore()
     # NK.narukore_promotion_exam()
 
-    monst = monst()
-    monst.story()
+    FGO_obj = FGO()
+    FGO_obj.story()
 
 
 
