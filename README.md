@@ -7,6 +7,7 @@
 #### 使用環境
 ```
 エミュレータ：NoxPlayer
+OS:Windows10
 CPU:ryzen7 7700x
 グラボ：MSI GeForce RTX 2060 SUPER
 ```
